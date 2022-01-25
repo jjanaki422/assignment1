@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>TR elements define table rows</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>S.No</td>
+    <td>title</td>
+    <td>Action</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Title1</td>
+ <td><button type="button"  disabled> UP</button>
+    <button type="button"> DOWN</button></td> 
+    </tr>
+
+<tr>
+    <td>2</td>
+    <td>Title2</td>
+ <td><button type="button"> UP</button>
+    <button type="button"> DOWN</button></td> 
+</tr>
+
+<tr>
+    <td>3</td>
+    <td>Title3</td>
+ <td><button type="button"> UP</button>
+    <button type="button"> DOWN</button></td> 
+</tr>
+
+<tr>
+    <td>4</td>
+    <td>Title4</td>
+ <td><button type="button"> UP</button>
+    <button type="button"> DOWN</button></td> 
+</tr>
+
+<tr>
+    <td>5</td>
+    <td>Title5</td>
+ <td><button type="button"> UP</button>
+    <button type="button"> DOWN</button></td> 
+</tr>
+
+<tr>
+    <td>6</td>
+    <td>Title6</td>
+ <td><button type="button"> UP</button>
+    <button type="button"> DOWN</button></td> 
+</tr>
+
+<tr>
+    <td>7</td>
+    <td>Title7</td>
+ <td><button type="button"> UP</button>
+    <button type="button" disabled> DOWN</button></td> 
+  </tr>
+</table>
+
+
+</body>
+</html>
